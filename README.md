@@ -12,7 +12,6 @@
 - [Screenshots & Demo](#Screenshots--Demo)
 - [Tech Stack](#Tech-Stack)
 - [Repository Structure](#Repository-Structure)
-- [How to Run](#How-to-Run)
 - [Potential Improvements](#Potential-Improvements)
 
 ---
@@ -57,23 +56,17 @@ This app was developed for a class presentation to demonstrate a real-world on-d
 QuickCareApp/
 ├── docs/                # README Images, GIFs
 ├── README.md
-├── QuickCareApp.xcodeproj
 └── QuickCareApp/
 	├── Assets.xcassets/ # App Embedded Images
 	├── Preview Content/
+    ├── Colors.swift
+	├── UserProfile.swift
+    ├── ProfileCardView.swift
+	├── LoginView.swift
+    ├── HomeView.swift
+    ├── ETAScreenView.swift
 	└── ContentView.Swift
 ```
-
----
-
-## How to Run
-
-1. Clone the repository:  
-```bash
-git clone https://github.com/your-username/QuickCareApp.git
-```
-2. Open QuickCareApp.xcodeproj in Xcode.
-3. Build and run on a simulator or device running iOS 16+.
 
 ---
 
