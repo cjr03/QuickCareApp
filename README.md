@@ -1,4 +1,5 @@
 # QuickCare App
+![Swift](https://img.shields.io/badge/Swift-orange)
 
 **QuickCare** is a SwiftUI demo app for on-demand childcare, designed for a class (Globalization, Innovation, & Entreprenuership) project focusing on extending innovation overseas. The app connects parents with babysitters and vise versa, allowing parents to filter sitters by budget and duration, and sitters to view available families by wage. It also includes ETA/directions features for real-world usability.
 
@@ -34,10 +35,10 @@ This app was developed for a class presentation to demonstrate a real-world on-d
 ## Screenshots & Demo
 
 ### Login Screen
-![Login Screen](docs/login.png)
+<img src="docs/login.png" width="300px">
 
 ### BabySitter Selection & ETA / Directions Screen
-![Sitter ETA](sitter_eta.gif)
+<img src="docs/sitter_eta.gif" width="300px">
 
 ---
 
