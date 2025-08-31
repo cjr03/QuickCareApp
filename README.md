@@ -6,13 +6,13 @@
 
 ## Table of Contents
 
-- ![About](#About)
-- ![Features](#Features)
-- ![Screenshots & Demo](#Screenshots--Demo)
-- ![Tech Stack](#Tech-Stack)
-- ![Repository Structure](#Repository-Structure)
-- ![How to Run](#How-to-Run)
-- ![Potential Improvements](#Potential-Improvements)
+- [About](#About)
+- [Features](#Features)
+- [Screenshots & Demo](#Screenshots--Demo)
+- [Tech Stack](#Tech-Stack)
+- [Repository Structure](#Repository-Structure)
+- [How to Run](#How-to-Run)
+- [Potential Improvements](#Potential-Improvements)
 
 ---
 
